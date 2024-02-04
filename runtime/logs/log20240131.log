@@ -1,3 +1,5 @@
 [INFO][article.go:75]2024/01/31 00:10:57 [state 状态只允许0或1]
 [INFO][article.go:75]2024/01/31 00:11:09 [state 状态只允许0或1]
 [INFO][article.go:75]2024/01/31 00:11:09 [tag_id 标签ID必须大于0]
+[INFO][article.go:75]2024/01/31 00:16:34 [state 状态只允许0或1]
+[INFO][article.go:75]2024/01/31 00:16:34 [tag_id 标签ID必须大于0]
